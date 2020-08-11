@@ -1,0 +1,20 @@
+p {
+  background-color:blue;
+  width: 10%;
+  color: white;
+}
+
+.main-content-div {
+  display: flex;
+  flex-direction: column;
+}
+
+.mid-content-div {
+  display: flex;
+  flex: row;
+}
+
+.sub-content-div {
+  display: flex;
+  justify-content: space-between;
+}
